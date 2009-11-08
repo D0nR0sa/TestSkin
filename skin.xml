@@ -1,10 +1,10 @@
 <skin>
-  <defaultresolution>pal</defaultresolution>
-  <defaultresolutionwide>pal16x9</defaultresolutionwide>
+  <defaultresolution>720p</defaultresolution>
+  <defaultresolutionwide>1080i</defaultresolutionwide>
   <version>2.1</version>
 
   <credits>
-    <skinname>Empty</skinname>
-    <name>Wir3d</name>
+    <skinname>TestSkin</skinname>
+    <name>D0nR0sa</name>
   </credits>
 </skin>
